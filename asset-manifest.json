@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.54905710.css",
+    "main.js": "/static/js/main.259256c5.js",
+    "static/media/froggystyle.webp": "/static/media/froggystyle.a9a687b1174b99719543.webp",
+    "static/media/lowpolytree.png": "/static/media/lowpolytree.b732ceba315ada4bcf79.png",
+    "static/media/SanFrancisco.png": "/static/media/SanFrancisco.0191d8feeadd96f6356a.png",
+    "static/media/Speaker.png": "/static/media/Speaker.87ff0e7bc63910748c37.png",
+    "static/media/Rock.png": "/static/media/Rock.88cdaaa3a3336c1e55a0.png",
+    "static/media/KettleStore.png": "/static/media/KettleStore.6c4a5c4e916b033d6e13.png",
+    "static/media/github.svg": "/static/media/github.1bb49e69cc06151e48eb7e95a0962b8b.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.3520dbd005963ef43e0e4c4cec706709.svg",
+    "static/media/email.svg": "/static/media/email.aabe5a42ce2e051947e4903e0e6e93d2.svg",
+    "static/media/copy.svg": "/static/media/copy.65f7e9a46146d9f24965f33ab5cea7a9.svg",
+    "static/media/rightChevron.svg": "/static/media/rightChevron.efe72cd0c66f3e492ede97759aef25f5.svg",
+    "static/media/down-arrow-two.svg": "/static/media/down-arrow-two.f86c1cc7ecde8ccdd855eb1e462e335e.svg",
+    "static/media/hamburger.svg": "/static/media/hamburger.74e83ac7dc0b5a30c4cdb3db0e05c1dd.svg",
+    "index.html": "/index.html",
+    "static/media/x.svg": "/static/media/x.4bbc1561b5ac2fe2bed3c0ca173ef19e.svg",
+    "main.54905710.css.map": "/static/css/main.54905710.css.map",
+    "main.259256c5.js.map": "/static/js/main.259256c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54905710.css",
+    "static/js/main.259256c5.js"
+  ]
+}
