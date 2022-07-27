@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.54905710.css",
-    "main.js": "/static/js/main.259256c5.js",
+    "main.js": "/static/js/main.bef2fdb4.js",
     "static/media/froggystyle.webp": "/static/media/froggystyle.a9a687b1174b99719543.webp",
     "static/media/lowpolytree.png": "/static/media/lowpolytree.b732ceba315ada4bcf79.png",
     "static/media/SanFrancisco.png": "/static/media/SanFrancisco.0191d8feeadd96f6356a.png",
@@ -18,10 +18,10 @@
     "index.html": "/index.html",
     "static/media/x.svg": "/static/media/x.4bbc1561b5ac2fe2bed3c0ca173ef19e.svg",
     "main.54905710.css.map": "/static/css/main.54905710.css.map",
-    "main.259256c5.js.map": "/static/js/main.259256c5.js.map"
+    "main.bef2fdb4.js.map": "/static/js/main.bef2fdb4.js.map"
   },
   "entrypoints": [
     "static/css/main.54905710.css",
-    "static/js/main.259256c5.js"
+    "static/js/main.bef2fdb4.js"
   ]
 }
