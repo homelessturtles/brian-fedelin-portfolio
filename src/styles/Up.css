@@ -1,0 +1,9 @@
+.up{
+  position: fixed;
+  bottom: 5rem;
+  right: 5rem;
+  z-index: 99;
+}
+.up h3{
+  cursor: pointer;
+}

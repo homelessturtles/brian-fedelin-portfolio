@@ -1,0 +1,26 @@
+body{
+  overflow: hidden;
+}
+.App{
+  overflow: scroll;
+  height: 100vh;
+  scroll-snap-type: y mandatory;
+}
+.home-section{
+  scroll-snap-align: start;
+  width: 100vw;
+  height: 100vh;
+}
+.projects-section{
+  scroll-snap-align: start;
+  width: 100vw;
+  height: 100vh;
+}
+.about-section{
+  scroll-snap-align: start;
+  width: 100vw;
+  height: 100vh;
+}
+.contact-section{
+  scroll-snap-align: start;
+}

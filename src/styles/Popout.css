@@ -1,0 +1,36 @@
+.popout-container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+}
+.popout{
+  display: flex;
+  align-items: center;
+  color: black;
+  gap: 1rem;
+  border-radius: 2rem;
+  width: 20rem;
+  height: 5rem;
+  padding: 2rem;
+  background-color: rgb(248, 243, 235);
+  box-shadow: 3px 5px 8px -3px rgba(0,0,0,0.84);
+  position: relative;
+}
+.popout img{
+  cursor: pointer;
+  margin-top: 0.4rem;
+}
+
+.copy-message{
+  position: absolute;
+  display: none;
+  top: 5.25rem;
+  left: 3rem;
+  color: white;
+}

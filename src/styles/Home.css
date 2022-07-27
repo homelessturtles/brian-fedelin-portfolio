@@ -1,0 +1,78 @@
+.home{
+  width: 100vw;
+  height: 100vh;
+  padding: 3rem;
+  padding-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.hero{
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+.tree-container{
+  flex: 1
+}
+.intro-container{
+  flex: 2;
+  width: 20rem;
+}
+.intro h3{
+  color: #BBE379;
+  font-size: 2.5rem;
+}
+.tree{
+  width: 25rem;
+}
+.down-arrow{
+  position: fixed;
+  bottom: 1rem;
+  z-index: 99;
+  animation: bounce ease-in 4.5s;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+}
+@keyframes bounce{
+  0%{
+    margin-bottom: 0rem;
+  }
+  5%{
+    margin-bottom: 3rem;
+  }
+  10%{
+    margin-bottom: 0rem;
+  }
+  15%{
+    margin-bottom: 1.5rem;
+  }
+  20%{
+    margin-bottom: 0rem;
+  }
+  100%{
+    margin-bottom: 0;
+  }
+}
+.down-arrow img{
+  top: 0;
+  left: 0;
+  width: 2rem;
+}
+
+@media screen and (max-width: 768px){
+  .home{
+    justify-content: center;
+  }
+  .hero{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: -3rem;
+  }
+  .tree{
+    width: 20rem;
+  }
+}
